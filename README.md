@@ -1,1 +1,1 @@
-# lab1js
+# labjs
